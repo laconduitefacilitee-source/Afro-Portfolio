@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Fond noir arrondi -->
+  <rect width="64" height="64" rx="14" fill="#0a0610"/>
+  <!-- Losange kente : violet, noir, doré -->
+  <path d="M32 5 L59 32 L32 59 L5 32 Z" fill="#7b2cbf"/>
+  <path d="M32 15 L49 32 L32 49 L15 32 Z" fill="#0a0610"/>
+  <path d="M32 23 L41 32 L32 41 L23 32 Z" fill="#f2b134"/>
+</svg>
